@@ -1,4 +1,5 @@
 html,body {
     background: url(assets/download-50825.jpeg) no-repeat center center fixed;
     background-size: cover;         /* Generic*/
+    background-size: 100% 100%; 
 }
