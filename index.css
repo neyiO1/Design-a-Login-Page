@@ -1,13 +1,4 @@
-#background {
-    width: 100%; 
-    height: 100%; 
-    position: fixed; 
-    left: 0px; 
-    top: 0px; 
-    z-index: -1; /* Ensure div tag stays behind content; -999 might work, too. */
-}
-
-.stretch {
-    width:100%;
-    height:100%;
+html,body {
+    background: url(assets/download-50825.jpeg) no-repeat center center fixed;
+    background-size: cover;         /* Generic*/
 }
